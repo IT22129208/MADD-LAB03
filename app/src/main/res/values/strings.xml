@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MADD Lab 03 - Fragments</string>
+    <string name="hint_number_1">Enter Number 1</string>
+    <string name="hint_number_2">Enter Number 2</string>
+    <string name="op_add">+</string>
+    <string name="op_sub">-</string>
+    <string name="op_mul">x</string>
+    <string name="op_div">/</string>
+    <string name="btn_back">Back</string>
+    <string name="default_answer">Answer: 0.0</string>
+    <string name="answer_format">Answer: %1$s</string>
+    <string name="msg_empty_fields">Please enter both numbers</string>
+    <string name="msg_divide_by_zero">Cannot divide by zero</string>
+    <string name="msg_invalid_number">Please enter valid numbers</string>
+</resources>
